@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="SmartHomeMaintenance.API/SmartHomeMaintenance.API.csproj" />
+  <Project Path="SmartHomeMaintenance.Application/SmartHomeMaintenance.Application.csproj" />
+  <Project Path="SmartHomeMaintenance.Domain/SmartHomeMaintenance.Domain.csproj" />
+  <Project Path="SmartHomeMaintenance.Infrastructure/SmartHomeMaintenance.Infrastructure.csproj" />
+</Solution>
